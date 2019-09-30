@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\bin\Debug\CalculatorWindowsApplication.exe.config
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\bin\Debug\CalculatorWindowsApplication.exe
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\bin\Debug\CalculatorWindowsApplication.pdb
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\bin\Debug\CalculatorWindowsApplication.xml
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\obj\Debug\CalculatorWindowsApplication.vbprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\obj\Debug\CalculatorWindowsApplication.Calculator.resources
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\obj\Debug\CalculatorWindowsApplication.Resources.resources
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\obj\Debug\CalculatorWindowsApplication.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\obj\Debug\CalculatorWindowsApplication.exe
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\obj\Debug\CalculatorWindowsApplication.xml
+C:\Users\david\Desktop\Projects\Visual Basic\CalculatorWindowsApplication\CalculatorWindowsApplication\obj\Debug\CalculatorWindowsApplication.pdb
